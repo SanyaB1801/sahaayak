@@ -148,8 +148,7 @@ sahaayak/
 
 ## 🙌 Authors
 
-- Your Name (@yourgithub)
-- [Other Team Members]
+- Sanya Behera (@SanyaB1801)
 
 ---
 
