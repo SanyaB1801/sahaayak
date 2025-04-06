@@ -133,7 +133,7 @@ sahaayak/
 
 ## 📽️ Demo Video
 
-> [🎥 Watch the Demo](./demo/sahaayak_demo.mp4) — See real-time detection, reminders, and chat interaction in action.
+> [🎥 Watch the Demo](https://drive.google.com/file/d/1T-uyMfjaExkw5u9rpcV3G7RWpVk1P1WD/view?usp=sharing) — See real-time detection, reminders, and chat interaction in action.
 
 ---
 
